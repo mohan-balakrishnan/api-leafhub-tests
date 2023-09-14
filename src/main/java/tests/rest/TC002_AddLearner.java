@@ -26,7 +26,7 @@ public class TC002_AddLearner extends RESTAssuredBase{
 				+ "    \"firstName\": \"Babu\",\r\n"
 				+ "    \"middleName\": \"\",\r\n"
 				+ "    \"lastName\": \"Manickam\",\r\n"
-				+ "    \"age\": \"45\",\r\n"
+				+ "    \"age\": 45,\r\n"
 				+ "    \"address\": \"Chennai\",\r\n"
 				+ "    \"email\": \"hello@testleaf.com\",\r\n"
 				+ "    \"gender\": \"M\",\r\n"
